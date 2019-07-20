@@ -11,7 +11,7 @@
 <?php
 
 var_dump(include __DIR__ . '/1.php');
-var_dump(include __DIR__ . '/2.php');  //
+var_dump(include __DIR__ . '/2.php');
 var_dump(include __DIR__ . '/3.php');
 
 ?>
